@@ -5,7 +5,11 @@
 Computer Science @ **York University** 🎓 | Aspiring Software Developer 💻 
 📍 Scarborough, Ontario, Canada  
 
-I’m a motivated and detail-oriented Computer Science student, graduating in **October 2025**, with a strong background in **client-facing roles and estimating** within the auto body repair industry. My experience as an **Estimator** and **CSR** sharpened my problem-solving, workflow coordination, and communication skills — now I apply the same mindset to **software engineering, web development, and embedded systems**.  
+I’m a **motivated and detail-oriented Computer Science student** at York University, graduating in **October 2025**. My background combines **strong technical foundations** with experience working on **real-world, client-driven projects** — from developing interactive web apps to building embedded systems.  
+
+With hands-on skills in **Python, Java, C++, web technologies, and system design**, I focus on writing **clean, maintainable code** and delivering **solutions that solve real-world problems**. I thrive in environments where **collaboration, innovation, and efficiency** drive progress.  
+
+⚡ I’m especially passionate about **software development, embedded systems, cloud solutions, and AI applications**.
 
 ⚡ Passionate about **building tech that solves real-world problems**, blending logical thinking with hands-on implementation.  
 🚀 Open to **internships, junior developer roles, or tech support opportunities** to grow while contributing to innovative projects.  
