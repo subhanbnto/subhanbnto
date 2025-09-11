@@ -63,19 +63,22 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 ---
 
 ### 📊 GitHub Activity  
+
 [![Subhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SubhanHanif&bg_color=0d1117&color=4c8ed9&line=4c8ed9&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/SubhanHanif">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanHanif&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubhanHanif&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanHanif&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
   </a>
 </div>
-<p align="center">
+
+<div align="center">
   <a href="https://github.com/SubhanHanif">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhanHanif&theme=tokyonight" alt="SubhanHanif" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SubhanHanif&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhanHanif&theme=tokyonight"/>
   </a>
-</p>
+</div>
+
 
 ---
 
