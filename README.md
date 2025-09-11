@@ -32,12 +32,33 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 ---
 
 ### 🌐 Connect With Me  
-<p align="left">
-<a href="https://www.linkedin.com/in/subhan-hanif/" target="blank"><i align="center" class="devicon-linkedin-plain colored" height="40" width="60"></i></a>
-<a href="mailto:your.email@example.com"><i class="devicon-google-plain colored" height="40" width="60"></i></a>
-</p>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhanHanif&label=Profile%20views&color=0e75b6&style=flat" alt="SubhanHanif" /> </p>
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:subhanbnto@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Phone -->
+  <a href="tel:+16476879109" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/subhanhanif521" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/subhanbnto" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <!-- Snapchat -->
+  <a href="https://www.snapchat.com/add/subhanbnto" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.gg/hcZPSscF" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
