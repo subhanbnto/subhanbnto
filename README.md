@@ -1,5 +1,11 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+<!-- 🎨 Floating Mascot -->
+<img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="120" align="right">
+
+<!-- ⌨️ Typing Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=500&lines=Hello+🌎,+I'm+Subhan+Hanif;Computer+Science+Student+@+York;Aspiring+Software+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake-dark.svg">
@@ -20,6 +26,11 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 
 ⚡ Passionate about **building tech that solves real-world problems**, blending logical thinking with hands-on implementation.  
 🚀 Open to **internships, junior developer roles, or tech support opportunities** to grow while contributing to innovative projects.  
+
+---
+
+### 👀 Profile Stats  
+![Profile views](https://komarev.com/ghpvc/?username=SubhanHanif&color=blue&style=flat)
 
 ---
 
@@ -64,18 +75,18 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 
 ### 📊 GitHub Activity  
 
-[![Subhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SubhanHanif&bg_color=0d1117&color=4c8ed9&line=4c8ed9&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Subhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanbnto&bg_color=0d1117&color=4c8ed9&line=4c8ed9&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <a href="https://github.com/SubhanHanif">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanHanif&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/subhanbnto">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhanbnto&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/SubhanHanif">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SubhanHanif&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhanHanif&theme=tokyonight"/>
+  <a href="https://github.com/subhanbnto">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanbnto&theme=tokyonight"/>
   </a>
 </div>
 
@@ -155,6 +166,16 @@ Bachelor of Science (BSc), **Computer Science** (2020 – 2025)
     </tr>
 </table>
 
+
+---
+
+### 🎭 Fun Stuff  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+<!-- Optional Spotify Widget -->
+<!--
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
+-->
 
 ---
 
