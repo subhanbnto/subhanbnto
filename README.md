@@ -1,80 +1,114 @@
-# Hi there, I'm Subhan Hanif 👋
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-![Banner](https://your-link-to-banner-image.com/banner.png)
+### Hello 🌎, I'm Subhan Hanif  
 
-## 👨‍💻 About Me
-I am a passionate **Frontend & Mobile App Developer** with a strong foundation in **software development and UI/UX design**. I enjoy building **interactive, user-friendly web and mobile applications** and constantly learning new technologies to enhance my skillset.
+Computer Science @ **York University** 🎓 | Aspiring Software Developer 💻 | Estimator & Former CSR @ Fix Auto 🚗  
+📍 Scarborough, Ontario, Canada  
 
-- 🎓 **Education:** BSc in Computer Science (or your degree)
-- 💼 **Experience:** Frontend & Mobile App Development, Web Projects, Technical Project Coordination
-- 🌱 **Current Focus:** React.js, Mobile Apps, Performance Optimization
-- 📍 **Location:** Toronto, Ontario, Canada
-- 📫 **Contact Me:** [Email](mailto:subhan.hanif@email.com) | [LinkedIn](https://www.linkedin.com/in/subhanhanif521)
+I’m a motivated and detail-oriented Computer Science student, graduating in **October 2025**, with a strong background in **client-facing roles and estimating** within the auto body repair industry. My experience as an **Estimator** and **CSR** sharpened my problem-solving, workflow coordination, and communication skills — now I apply the same mindset to **software engineering, web development, and embedded systems**.  
 
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![AngularJS](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Tools & Libraries
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+⚡ Passionate about **building tech that solves real-world problems**, blending logical thinking with hands-on implementation.  
+🚀 Open to **internships, junior developer roles, or tech support opportunities** to grow while contributing to innovative projects.  
 
 ---
 
-## 🚀 Featured Projects
-- **MindFlow Productivity App**  
-  Cross-platform app for task management and focus tracking.  
-  <img src="https://github.com/yourrepo/demo.gif" width="400" />
-
-- **Portfolio Website**  
-  Modern, responsive personal portfolio to showcase projects and skills.  
-  [Live Demo](https://yourportfolio.com)
-
-- **Other Projects**  
-  [Project 1](https://github.com/yourrepo) | [Project 2](https://github.com/yourrepo)
+### 🔭 What I'm Up To
+- 🌱 Currently learning **Spring Boot, Embedded Systems, Algorithms & Cryptography**  
+- 👨‍💻 Working on projects like **Fitness Apps, Plant Automation Systems, and Smart Lighting**  
+- 💬 Ask me about **Python, Java, C++, Arduino, Web Development, Problem Solving**  
+- 📈 Exploring **AI, Cybersecurity, and Cloud Solutions**  
 
 ---
 
-## 📈 GitHub Stats
-![Subhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhanhanif&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanhanif&layout=compact&theme=radical)
+### 🌐 Connect With Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/subhan-hanif/" target="blank"><i align="center" class="devicon-linkedin-plain colored" height="40" width="60"></i></a>
+<a href="mailto:your.email@example.com"><i class="devicon-google-plain colored" height="40" width="60"></i></a>
+</p>  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhanHanif&label=Profile%20views&color=0e75b6&style=flat" alt="SubhanHanif" /> </p>
 
 ---
 
-## 🐍 Contribution Snake
+### 📊 GitHub Activity  
+[![Subhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SubhanHanif&bg_color=0d1117&color=4c8ed9&line=4c8ed9&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <a href="https://github.com/SubhanHanif">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhanHanif&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubhanHanif&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://github.com/SubhanHanif">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhanHanif&theme=tokyonight" alt="SubhanHanif" />
+  </a>
 </p>
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhanhanif521)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://docs.google.com/document/d/1QyyG874nvcXugFgUz9by7cBARqDL8lIfAvjujdNkQHI/edit?usp=sharing)
+### 🧑‍💼 Experience  
+**Web Developer — Rue Productions** (Sep 2025 – Present)  
+- Defined scope & technical requirements for a website upgrade.  
+- Fixed animation & interactivity issues for consistency.  
+- Improved user experience with responsive features.  
+
+**Estimator — Fix Auto** (May 2023 – Apr 2025)  
+- Created detailed auto repair estimates with **Audatex & Mitchell**.  
+- Coordinated claims with **insurance companies, adjusters, and clients**.  
+- Streamlined workflow between office, technicians, and suppliers.  
+
+**Customer Service Representative — Fix Auto** (Apr 2022 – Sep 2022)  
+- First-line contact for clients, insurers & repair staff.  
+- Scheduled, processed paperwork, and managed repair records.  
 
 ---
 
-### Optional Fun Animations
-- Add **animated GIFs** for your projects.  
-- Include **visitor counter**, "Now Playing", or fun coding animations.
+### 🎓 Education  
+**York University – Lassonde School of Engineering**  
+Bachelor of Science (BSc), **Computer Science** (2020 – 2025)  
+- Courses: Data Structures, Algorithms, Software Design, Embedded Systems, Cryptography, UI/UX, OOP.  
+- Languages: Python, Java, C++, JavaScript.  
+
+---
+
+### 🏆 Certifications  
+- **Rue Productions Website Upgrade (Riipen)** – Sep 2025  
+- **IBM Data Fundamentals** – Aug 2025  
+- **IBM AI Fundamentals** – Jul 2025  
+- **IBM Cybersecurity Fundamentals** – Jul 2025  
+- **IBM Web Development Fundamentals** – Jul 2025  
+
+---
+
+### 🚀 Projects  
+**Latte’s Fitness App (Sep – Dec 2024)**  
+- Full-stack AI-powered fitness trainer built with **React Native, Node.js, PostgreSQL, Clerk**.  
+- Personalized workout plans + community challenges.  
+
+**Plant Watering System (Mar – Aug 2023)**  
+- Automated watering using **Arduino Grove Kit, moisture sensors, Java GUI**.  
+- Live sensor readings + OLED display for real-time updates.  
+
+---
+
+### 🛠️ Languages and Tools  
+<table>
+    <tr><td><b>Programming:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=python,java,cpp,js,ts"/></td></tr>
+    <tr><td><b>Web Dev:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/></td></tr>
+    <tr><td><b>Databases:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb"/></td></tr>
+    <tr><td><b>DevOps:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions"/></td></tr>
+    <tr><td><b>Embedded:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=arduino"/></td></tr>
+    <tr><td><b>Tools & IDEs:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,gitlab"/></td></tr>
+</table>  
+
+---
+
+### 🌍 Languages  
+- **English** – Professional Working Proficiency  
+- **Urdu** – Native / Bilingual  
+- **Punjabi** – Native / Bilingual  
+
+---
+
+⭐ [SubhanHanif](https://github.com/SubhanHanif)  
