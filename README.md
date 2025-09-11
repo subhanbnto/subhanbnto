@@ -1,5 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+<!-- 🎨 Floating Mascot -->
+<img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="120" align="right">
 
 
 <!-- ⌨️ Typing Intro -->
