@@ -9,7 +9,6 @@ I’m a **motivated and detail-oriented Computer Science student** at York Unive
 
 With hands-on skills in **Python, Java, C++, web technologies, and system design**, I focus on writing **clean, maintainable code** and delivering **solutions that solve real-world problems**. I thrive in environments where **collaboration, innovation, and efficiency** drive progress.  
 
-⚡ I’m especially passionate about **software development, embedded systems, cloud solutions, and AI applications**.
 
 ⚡ Passionate about **building tech that solves real-world problems**, blending logical thinking with hands-on implementation.  
 🚀 Open to **internships, junior developer roles, or tech support opportunities** to grow while contributing to innovative projects.  
