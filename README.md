@@ -29,11 +29,6 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 
 ---
 
-### 👀 Profile Stats  
-![Profile views](https://komarev.com/ghpvc/?username=SubhanHanif&color=blue&style=flat)
-
----
-
 ### 🔭 What I'm Up To
 - 🌱 Currently learning **Spring Boot, Embedded Systems, Algorithms & Cryptography**  
 - 👨‍💻 Working on projects like **Fitness Apps, Plant Automation Systems, and Smart Lighting**  
@@ -169,13 +164,9 @@ Bachelor of Science (BSc), **Computer Science** (2020 – 2025)
 
 ---
 
-### 🎭 Fun Stuff  
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+### 👀 Profile Stats  
+![Profile views](https://komarev.com/ghpvc/?username=SubhanHanif&color=blue&style=flat)
 
-<!-- Optional Spotify Widget -->
-<!--
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
--->
 
 ---
 
