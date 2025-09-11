@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="120" align="right">
 
 <!-- ⌨️ Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=500&lines=Hello+🌎,+I'm+Subhan+Hanif;Computer+Science+Student+@+YorkU;Aspiring+Software+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=500&lines=Hello+🌎,+I'm+Subhan+Hanif;Computer+Science+Student+@+YorkU;Aspiring+Software+Developer;Always+Learning+New+Tech)]
 
 <p align="center">
   <picture>
