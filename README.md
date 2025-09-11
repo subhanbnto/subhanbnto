@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="120" align="right">
 
 <!-- ⌨️ Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=500&lines=Hello+🌎,+I'm+Subhan+Hanif;Computer+Science+Student+@+York;Aspiring+Software+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=500&lines=Hello+🌎,+I'm+Subhan+Hanif;Computer+Science+Student+@+YorkU;Aspiring+Software+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 <p align="center">
   <picture>
@@ -13,8 +13,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
-### Hello 🌎, I'm Subhan Hanif  
+ 
 
 Computer Science @ **York University** 🎓 | Aspiring Software Developer 💻 
 📍 Scarborough, Ontario, Canada  
