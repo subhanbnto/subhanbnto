@@ -39,7 +39,7 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- Phone -->
-  <a href="tel:+16476879109" target="_blank">
+  <a href="https://wa.me/16476879109" target="_blank">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <!-- LinkedIn -->
