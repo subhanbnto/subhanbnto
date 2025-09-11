@@ -1,5 +1,13 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 ### Hello 🌎, I'm Subhan Hanif  
 
 Computer Science @ **York University** 🎓 | Aspiring Software Developer 💻 
@@ -112,12 +120,5 @@ Bachelor of Science (BSc), **Computer Science** (2020 – 2025)
 - **Urdu** – Native / Bilingual  
 - **Punjabi** – Native / Bilingual  
 
----
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+
