@@ -2,7 +2,7 @@
 
 ### Hello 🌎, I'm Subhan Hanif  
 
-Computer Science @ **York University** 🎓 | Aspiring Software Developer 💻 | Estimator & Former CSR @ Fix Auto 🚗  
+Computer Science @ **York University** 🎓 | Aspiring Software Developer 💻 
 📍 Scarborough, Ontario, Canada  
 
 I’m a motivated and detail-oriented Computer Science student, graduating in **October 2025**, with a strong background in **client-facing roles and estimating** within the auto body repair industry. My experience as an **Estimator** and **CSR** sharpened my problem-solving, workflow coordination, and communication skills — now I apply the same mindset to **software engineering, web development, and embedded systems**.  
