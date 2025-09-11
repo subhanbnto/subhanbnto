@@ -129,20 +129,36 @@ Bachelor of Science (BSc), **Computer Science** (2020 – 2025)
 
 ### 🛠️ Languages and Tools  
 <table>
-    <tr><td><b>Programming:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=python,java,cpp,js,ts"/></td></tr>
-    <tr><td><b>Web Dev:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/></td></tr>
-    <tr><td><b>Databases:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb"/></td></tr>
-    <tr><td><b>DevOps:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions"/></td></tr>
-    <tr><td><b>Embedded:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=arduino"/></td></tr>
-    <tr><td><b>Tools & IDEs:</b></td><td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,gitlab"/></td></tr>
-</table>  
+    <tr>
+        <td><b>Programming:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,c,cs,go"/></td>
+    </tr>
+    <tr>
+        <td><b>Web Dev:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,angular,bootstrap,tailwind"/></td>
+    </tr>
+    <tr>
+        <td><b>Databases:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis"/></td>
+    </tr>
+    <tr>
+        <td><b>DevOps & Cloud:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,azure,heroku"/></td>
+    </tr>
+    <tr>
+        <td><b>Embedded & IoT:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=arduino,raspberrypi"/></td>
+    </tr>
+    <tr>
+        <td><b>Tools & IDEs:</b></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm,git,github,gitlab,bitbucket"/></td>
+    </tr>
+</table>
+
 
 ---
 
-### 🌍 Languages  
-- **English** – Professional Working Proficiency  
-- **Urdu** – Native / Bilingual  
-- **Punjabi** – Native / Bilingual  
+
 
 
 
