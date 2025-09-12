@@ -116,11 +116,11 @@ Bachelor of Science (BSc), **Computer Science** (2020 – 2025)
 ---
 
 ### 🏆 Certifications  
-- **Rue Productions Website Upgrade (Riipen)** – Sep 2025  
-- **IBM Data Fundamentals** – Aug 2025  
-- **IBM AI Fundamentals** – Jul 2025  
-- **IBM Cybersecurity Fundamentals** – Jul 2025  
-- **IBM Web Development Fundamentals** – Jul 2025  
+- **[Rue Productions Website Upgrade (Riipen)](https://levelup.riipen.com/teams/XOBo10Yz/certificates/YLrbaN3L)** – Sep 2025  
+- **[IBM Data Fundamentals](https://www.credly.com/badges/77fbfc93-58bb-4187-98b2-62ea352ddad1/public_url)** – Aug 2025  
+- **[IBM AI Fundamentals](https://www.credly.com/badges/9a28c159-1deb-41b7-82f3-462d37f38052/public_url)** – Jul 2025  
+- **[IBM Cybersecurity Fundamentals](https://www.credly.com/badges/a5c10658-d33f-4d80-9348-53dca3b76d0c/public_url)** – Jul 2025  
+- **[IBM Web Development Fundamentals](https://www.credly.com/badges/11f7fe3e-fb96-4e18-ac2f-2f848ea1a0b2/public_url)** – Jul 2025   
 
 ---
 
