@@ -72,7 +72,7 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 
 ### 📊 GitHub Activity  
 
-[![Subhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanbnto&bg_color=0d1117&color=4c8ed9&line=4c8ed9&point=403e41&area=true&hide_border=true)]
+![Subhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanbnto&bg_color=0d1117&color=4c8ed9&line=4c8ed9&point=403e41&area=true&hide_border=true)
 
 <div align="center">
   <a href="https://github.com/subhanbnto">
