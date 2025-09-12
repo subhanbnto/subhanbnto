@@ -4,7 +4,7 @@
 
 
 <!-- ⌨️ Typing Intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=500&lines=Hello+🌎,+I'm+Subhan+Hanif;Computer+Science+Student+@+York;Aspiring+Software+Developer;Always+Learning+New+Tech)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=500&lines=Hello+🌎,+I'm+Subhan+Hanif;Computer+Science+Student+@+York;Aspiring+Software+Developer;Always+Learning+New+Tech)
 
 
 
