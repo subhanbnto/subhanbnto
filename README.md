@@ -91,7 +91,7 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 ---
 
 ### 🧑‍💼 Experience  
-**Web Developer — Rue Productions** (Sep 2025 – Present)  
+**Web Developer — Rue Productions** (Aug 2025 – Sep 2025)  
 - Defined scope & technical requirements for a website upgrade.  
 - Fixed animation & interactivity issues for consistency.  
 - Improved user experience with responsive features.  
