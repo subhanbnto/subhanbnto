@@ -83,7 +83,7 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 <div align="center">
   <a href="https://github.com/subhanbnto">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanbnto&theme=tokyonight"/>
+    
   </a>
 </div>
 
