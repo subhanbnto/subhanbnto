@@ -215,28 +215,34 @@ MindFlow highlighted my ability to combine **UI/UX design principles** with fron
 ### 🛠️ Languages and Tools  
 <table>
     <tr>
-        <td><b>Programming:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,c,cs,go"/></td>
+        <td><b>Languages:</b></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp,swift,ts,matlab"/>
+        </td>
     </tr>
     <tr>
-        <td><b>Web Dev:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,angular,bootstrap,tailwind"/></td>
+        <td><b>Python Libraries:</b></td>
+        <td>
+            <code>Pandas</code>, <code>Matplotlib</code>, <code>Plotly</code>, <code>pytest</code>
+        </td>
+    </tr>
+    <tr>
+        <td><b>Frameworks & Tools:</b></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,react,angular,tailwind,bootstrap,figma,firebase"/>
+        </td>
     </tr>
     <tr>
         <td><b>Databases:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis"/></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql"/>
+        </td>
     </tr>
     <tr>
-        <td><b>DevOps & Cloud:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,azure,heroku"/></td>
-    </tr>
-    <tr>
-        <td><b>Embedded & IoT:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=arduino,raspberrypi"/></td>
-    </tr>
-    <tr>
-        <td><b>Tools & IDEs:</b></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm,git,github,gitlab,bitbucket"/></td>
+        <td><b>Cloud & DevOps:</b></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=aws,git,github"/>
+        </td>
     </tr>
 </table>
 
