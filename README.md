@@ -156,7 +156,6 @@ Bachelor of Science (BSc), **Computer Science** (2020 – 2025)
 
 **Latte’s Fitness App**  
 *September 2024 – December 2024*  
-[GitHub Repository](https://github.com/EECS3311F24/project-latte.git)  
 
 Latte’s Fitness App is a next-generation fitness platform designed to provide a truly personalized health and training experience. Unlike traditional fitness apps that offer generic workout routines, Latte’s Fitness App functions as a **virtual personal trainer**, intelligently tailoring programs to each user’s unique goals, preferences, and progress.  
 
