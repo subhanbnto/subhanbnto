@@ -166,7 +166,7 @@ Beyond individual guidance, the app emphasizes **community engagement** by enabl
 
 Our mission was to deliver a **personalized, data-driven, and socially engaging fitness experience** that empowers users to achieve their physical goals with the same flexibility, adaptability, and encouragement as working with a real fitness coach.  
 
-
+--
 
 **Automatic Lighting System**  
 *April 2022 – May 2022*  
@@ -180,7 +180,7 @@ Key features include:
 
 This project demonstrated how **systematic automation** can improve energy management while showcasing integration between embedded systems and Java-based interfaces.  
 
-
+--
 
 **Plant Watering System**  
 *January 2022 – March 2022*  
@@ -194,7 +194,7 @@ Key features include:
 
 This project combined **embedded hardware control** with **desktop-based data visualization**, bridging IoT automation with user-friendly interfaces.  
 
-
+--
 
 **MindFlow – UI Design & Productivity App**  
 *September 2024 – December 2024*  
