@@ -153,13 +153,61 @@ Bachelor of Science (BSc), **Computer Science** (2020 – 2025)
 ---
 
 ### 🚀 Projects  
-**Latte’s Fitness App (Sep – Dec 2024)**  
-- Full-stack AI-powered fitness trainer built with **React Native, Node.js, PostgreSQL, Clerk**.  
-- Personalized workout plans + community challenges.  
 
-**Plant Watering System (Mar – Aug 2023)**  
-- Automated watering using **Arduino Grove Kit, moisture sensors, Java GUI**.  
-- Live sensor readings + OLED display for real-time updates.  
+**Latte’s Fitness App**  
+*September 2024 – December 2024*  
+[GitHub Repository](https://github.com/EECS3311F24/project-latte.git)  
+
+Latte’s Fitness App is a next-generation fitness platform designed to provide a truly personalized health and training experience. Unlike traditional fitness apps that offer generic workout routines, Latte’s Fitness App functions as a **virtual personal trainer**, intelligently tailoring programs to each user’s unique goals, preferences, and progress.  
+
+The app leverages **AI-driven recommendations** to design adaptive workout plans that evolve over time, ensuring users remain challenged and motivated throughout their fitness journey. In addition to customized training, the app integrates advanced progress tracking to monitor performance, identify improvements, and adjust routines accordingly.  
+
+Beyond individual guidance, the app emphasizes **community engagement** by enabling users to share goals, join challenges, and support one another. This dual focus on personalization and community creates an ecosystem that keeps users accountable, motivated, and on track toward achieving sustainable health outcomes.  
+
+Our mission was to deliver a **personalized, data-driven, and socially engaging fitness experience** that empowers users to achieve their physical goals with the same flexibility, adaptability, and encouragement as working with a real fitness coach.  
+
+---
+
+**Automatic Lighting System**  
+*April 2022 – May 2022*  
+[Project Report](https://drive.google.com/file/d/1AOFabQvLVmX7DhnC_QznYe3le6ocwoWA/view?usp=sharing) | [Demo Video](https://youtu.be/iLGMsZCzJxY)  
+
+The Automatic Lighting System is an **Arduino and Java-based project** that intelligently controls lighting by detecting ambient brightness levels. Designed to promote **energy efficiency and reduce human effort**, the system automatically switches lights on when the environment is dark and off when sufficient light is present.  
+
+Key features include:  
+- Implemented with a **Light Sensor (Grove Kit Arduino)** and controlled via the **Firmata Java library**.  
+- Functions both as an **Automatic Lighting System** and a **Light Level Counter**, tracking ambient brightness over time.  
+- Developed a **Java GUI dashboard** to display real-time readings and visualize light level trends through numeric data and graphs.  
+
+This project demonstrated how **systematic automation** can improve energy management while showcasing integration between embedded systems and Java-based interfaces.  
+
+---
+
+**Plant Watering System**  
+*January 2022 – March 2022*  
+[Project Report](https://drive.google.com/file/d/14uZrzF6B_mgnznAN5cYpQbpJHzh18Ybj/view) | [Demo Video](https://youtu.be/wl9kPrfY4Vk)  
+
+An **automated irrigation system** designed using Arduino, soil moisture sensors, and a **Java GUI**. The system monitors soil moisture in real time and activates a water pump when the soil is dry, ensuring plants receive adequate hydration without human intervention.  
+
+Key features include:  
+- **Moisture sensor-based automation**: Activates water pump + LED indicator when soil is dry, and pauses when sufficient moisture is detected.  
+- **Real-time monitoring** through a custom **Java GUI**, which logs moisture levels and displays weekly trends in graph format.  
+- Efficient design that reduces water waste and supports **sustainable plant care**.  
+
+This project combined **embedded hardware control** with **desktop-based data visualization**, bridging IoT automation with user-friendly interfaces.  
+
+---
+
+**MindFlow – UI Design & Productivity App**  
+*September 2024 – December 2024*  
+
+MindFlow is a productivity app concept designed to help users **manage tasks and track focus levels** through a visually engaging, user-centered interface.  
+
+- Built the **front end using React Native**, focusing on smooth navigation and intuitive interactions.  
+- Conducted **usability testing** to gather feedback and iteratively improve the design.  
+- Enhanced overall **user satisfaction** by refining UI elements and improving task management workflows.  
+
+MindFlow highlighted my ability to combine **UI/UX design principles** with front-end mobile development, creating an app that prioritizes both **aesthetic appeal and functional efficiency**.    
 
 ---
 
