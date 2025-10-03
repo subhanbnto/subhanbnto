@@ -3,8 +3,16 @@
 
 
 
-<!-- ⌨️ Typing Intro -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=500&lines=Hello+🌎,+I'm+Subhan+Hanif;Computer+Science+Student+@+York;Aspiring+Software+Developer;Always+Learning+New+Tech)
+<!-- Typing intro + Resume (side-by-side) -->
+<div align="center">
+  <img
+    alt="Typing intro"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=500&lines=Hello+🌎,+I'm+Subhan+Hanif;Computer+Science+Student+@+York;Aspiring+Software+Developer;Always+Learning+New+Tech" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/subhanbnto/subhanbnto/raw/main/Subhan_Hanif_Resume.pdf">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-4C8ED9?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</div>
 
 
 
