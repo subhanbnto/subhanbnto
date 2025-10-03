@@ -16,6 +16,28 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/subhanbnto/subhanbnto/refs/heads/snake/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+
+
+<!-- ===== HERO / QUICK LINKS ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=600&lines=Hi%2C+I'm+Subhan+Hanif;CS+Student+@+York+University;Aspiring+Software+Developer;I+love+building+real-world+solutions" alt="typing intro" />
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a> ·
+  <a href="YOUR_RESUME_PDF_URL">📄 Resume</a> ·
+  <a href="mailto:subhanbnto@gmail.com">✉️ Email</a> ·
+  <a href="https://www.linkedin.com/in/subhanhanif521">🔗 LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Internships%20%7C%20Junior%20Dev%20Roles-4C8ED9?style=flat-square">
+  <img src="https://img.shields.io/badge/Location-Scarborough%2C%20ON-0d1117?style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=subhanbnto&color=4C8ED9&style=flat-square" alt="views">
+</p>
+
+---
  
 
 Computer Science @ **York University** 🎓 | Aspiring Software Developer 💻 
