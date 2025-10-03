@@ -166,11 +166,10 @@ Beyond individual guidance, the app emphasizes **community engagement** by enabl
 
 Our mission was to deliver a **personalized, data-driven, and socially engaging fitness experience** that empowers users to achieve their physical goals with the same flexibility, adaptability, and encouragement as working with a real fitness coach.  
 
----
+
 
 **Automatic Lighting System**  
 *April 2022 – May 2022*  
-[Project Report](https://drive.google.com/file/d/1AOFabQvLVmX7DhnC_QznYe3le6ocwoWA/view?usp=sharing) | [Demo Video](https://youtu.be/iLGMsZCzJxY)  
 
 The Automatic Lighting System is an **Arduino and Java-based project** that intelligently controls lighting by detecting ambient brightness levels. Designed to promote **energy efficiency and reduce human effort**, the system automatically switches lights on when the environment is dark and off when sufficient light is present.  
 
@@ -181,11 +180,10 @@ Key features include:
 
 This project demonstrated how **systematic automation** can improve energy management while showcasing integration between embedded systems and Java-based interfaces.  
 
----
+
 
 **Plant Watering System**  
 *January 2022 – March 2022*  
-[Project Report](https://drive.google.com/file/d/14uZrzF6B_mgnznAN5cYpQbpJHzh18Ybj/view) | [Demo Video](https://youtu.be/wl9kPrfY4Vk)  
 
 An **automated irrigation system** designed using Arduino, soil moisture sensors, and a **Java GUI**. The system monitors soil moisture in real time and activates a water pump when the soil is dry, ensuring plants receive adequate hydration without human intervention.  
 
@@ -196,7 +194,7 @@ Key features include:
 
 This project combined **embedded hardware control** with **desktop-based data visualization**, bridging IoT automation with user-friendly interfaces.  
 
----
+
 
 **MindFlow – UI Design & Productivity App**  
 *September 2024 – December 2024*  
