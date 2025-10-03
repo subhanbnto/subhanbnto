@@ -221,12 +221,6 @@ MindFlow highlighted my ability to combine **UI/UX design principles** with fron
         </td>
     </tr>
     <tr>
-        <td><b>Python Libraries:</b></td>
-        <td>
-            <code>Pandas</code>, <code>Matplotlib</code>, <code>Plotly</code>, <code>pytest</code>
-        </td>
-    </tr>
-    <tr>
         <td><b>Frameworks & Tools:</b></td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,react,angular,tailwind,bootstrap,figma,firebase"/>
