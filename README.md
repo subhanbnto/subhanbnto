@@ -29,7 +29,6 @@
 
 
 
-
 Computer Science @ **York University** 🎓 | Aspiring Software Developer 💻 
 📍 Scarborough, Ontario, Canada  
 
