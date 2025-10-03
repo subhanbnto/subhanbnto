@@ -91,19 +91,48 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 ---
 
 ### 🧑‍💼 Experience  
-**Web Developer — Rue Productions** (Aug 2025 – Sep 2025)  
-- Defined scope & technical requirements for a website upgrade.  
-- Fixed animation & interactivity issues for consistency.  
-- Improved user experience with responsive features.  
 
-**Estimator — Fix Auto** (May 2023 – Apr 2025)  
-- Created detailed auto repair estimates with **Audatex & Mitchell**.  
-- Coordinated claims with **insurance companies, adjusters, and clients**.  
-- Streamlined workflow between office, technicians, and suppliers.  
+**Full Stack Developer**  
+*While She Is True* — Winnipeg, Manitoba, Canada  
+*September 2025 – October 2025*  
+Contributed to the continuous improvement and management of the While She Is True website. Responsibilities included:  
+- Developing and integrating a classroom page with restricted access for registered students, updated weekly with exercises, assignments, and resources.  
+- Updating website content with current class offerings and student project showcases.  
+- Building and deploying a blog and resources page to support student learning.  
+- Enhancing SEO strategies to improve website visibility and online engagement.  
+- Cleaning and optimizing the code base to ensure scalability and performance.  
 
-**Customer Service Representative — Fix Auto** (Apr 2022 – Sep 2022)  
-- First-line contact for clients, insurers & repair staff.  
-- Scheduled, processed paperwork, and managed repair records.  
+**Web Developer**  
+*Rue Productions* — Toronto, Ontario, Canada  
+*August 2025 – September 2025*  
+- Collaborated with producer/director Rubén Möller to support the upgrade of Rue Productions’ website, enhancing user experience and visual presentation.  
+- Applied web design and development skills to implement creative and functional solutions aligned with the company’s vision.  
+- Received constructive feedback and integrated revisions effectively to deliver a professional final product.  
+- Strengthened technical, creative, and project management skills through a real-world industry project.  
+
+**Mobile App Developer**  
+*Lassonde School of Engineering* — Toronto, Ontario, Canada  
+*September 2024 – December 2024*  
+- Collaborated on the end-to-end design and development of a cross-platform productivity application focused on task management and focus tracking.  
+- Built and optimized the front end using React Native, creating an intuitive, user-friendly interface with seamless navigation and responsive design across devices.  
+- Conducted usability testing sessions, gathered feedback, and applied iterative design improvements to enhance task flow efficiency and overall user experience.  
+- Strengthened collaboration within the development team through effective version control practices and code reviews, ensuring maintainable, scalable, and high-quality deliverables.  
+
+**Estimator**  
+*Fix Auto* — Toronto, Ontario, Canada  
+*June 2022 – August 2023*  
+- Specialized in generating precise repair estimates by meticulously assessing vehicle damage and leveraging industry-standard software (**Audatex & Mitchell**).  
+- Bridged communication between clients, insurance companies, and the repair team, ensuring transparency and efficiency.  
+- Enhanced customer satisfaction through detailed explanations of repair processes and estimates.  
+- Stayed up to date with the latest auto repair technology and practices to improve accuracy and streamline operations.  
+
+**Customer Service Representative (CSR)**  
+*Fix Auto* — Toronto, Ontario, Canada  
+*July 2021 – May 2022*  
+- Acted as the frontline liaison for customer interactions, managing inquiries, and ensuring a positive service experience.  
+- Assessed customer needs, communicated repair details, and resolved complaints efficiently, contributing to increased customer satisfaction.  
+- Coordinated with the service department to keep customers informed on repair progress, improving workflow efficiency.  
+- Implemented customer feedback systems and maintained updated knowledge on services and policies to enhance service delivery.  
 
 ---
 
