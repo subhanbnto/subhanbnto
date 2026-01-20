@@ -74,7 +74,7 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" />
   </a>
   <!-- Discord -->
-  <a href="https://discord.gg/hcZPSscF" target="_blank">
+  <a href="https://discord.com/users/subhanbnto" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
