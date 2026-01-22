@@ -3,26 +3,26 @@
 
 
 
-<div align="center">
+<p align="center" style="white-space: nowrap;">
 
   <img
     alt="Typing intro"
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=420&lines=Hello+🌎,+I'm+Subhan+Hanif;Computer+Science+Student+@+YorkU;Aspiring+Software+Developer;Always+Learning+New+Tech" />
-
-  &nbsp;
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C8ED9&width=380&lines=Hello+🌎,+I'm+Subhan+Hanif;Computer+Science+Student+@+YorkU;Aspiring+Software+Developer;Always+Learning+New+Tech"
+    style="vertical-align: middle;" />
 
   <a href="https://github.com/subhanbnto/subhanbnto/raw/main/Subhan Hanif's Resume.pdf">
-    <img alt="Resume" src="https://img.shields.io/badge/Resume-4C8ED9?style=for-the-badge" />
+    <img
+      src="https://img.shields.io/badge/Resume-4C8ED9?style=for-the-badge"
+      style="vertical-align: middle;" />
   </a>
-
-  &nbsp;
 
   <a href="https://your-portfolio-link.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge"
+      style="vertical-align: middle;" />
   </a>
 
-</div>
-
+</p>
 
 
 <p align="center">
