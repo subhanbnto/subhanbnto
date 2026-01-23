@@ -89,22 +89,21 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 
 ---
 
-### 📊 GitHub Activity  
+### 📊 GitHub Activity & Contributions
+
+> ⚡ Active across multiple repositories including personal, employer, and shared/team projects.  
+> Contributions include feature development, backend systems, frontend UI, bug fixes, documentation, and production commits across private + organization repos.
 
 ![Subhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanbnto&bg_color=0d1117&color=4c8ed9&line=4c8ed9&point=403e41&area=true&hide_border=true)
 
 <div align="center">
-  <a href="https://github.com/subhanbnto">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhanbnto&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhanbnto&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/subhanbnto">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-    
-  </a>
-</div>
+<p align="center">
+  🚀 Full-stack development • React • TypeScript • Node.js • MongoDB • Production apps • Team repos
+</p>
 
 
 ---
