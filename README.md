@@ -101,9 +101,6 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 </div>
 
-<p align="center">
-  🚀 Full-stack development • React • TypeScript • Node.js • MongoDB • Production apps • Team repos
-</p>
 
 
 ---
