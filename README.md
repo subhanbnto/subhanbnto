@@ -98,9 +98,9 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanbnto&layout=compact&theme=tokyonight&count_private=true&cache_seconds=86400" />
+<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subhanbnto&layout=compact&theme=tokyonight&count_private=true" />
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=subhanbnto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
 </div>
 
