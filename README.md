@@ -92,13 +92,16 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 ### 📊 GitHub Activity & Contributions
 
 > ⚡ Active across multiple repositories including personal, employer, and shared/team projects.  
-> Contributions include feature development, backend systems, frontend UI, bug fixes, documentation, and production commits across private + organization repos.
+> Contributions include feature development, backend systems, frontend UI, bug fixes, documentation, and production commits.
 
-![Subhan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanbnto&bg_color=0d1117&color=4c8ed9&line=4c8ed9&point=403e41&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanbnto&theme=tokyo-night&area=true&hide_border=true&cache_seconds=86400)
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhanbnto&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanbnto&layout=compact&theme=tokyonight&count_private=true&cache_seconds=86400" />
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" />
+
 </div>
 
 
