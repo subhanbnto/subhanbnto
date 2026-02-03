@@ -98,10 +98,11 @@ I focus on writing **clean, maintainable code**, building **scalable systems**, 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanbnto&theme=tokyo-night&area=true&hide_border=true&cache_seconds=86400)
 
 <div align="center">
-  <img height="150em" alt="GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="150em" alt="Top languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanbnto&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="160em"
+src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
+
+<img height="160em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanbnto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </div>
 
 ---
@@ -232,32 +233,21 @@ MindFlow is a productivity app concept for task management and focus tracking, d
 
 ## 🛠️ Languages and Tools
 
-<table>
-  <tr>
-    <td><b>Languages:</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,sql,c,cpp,swift,matlab,bash"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frameworks & Tools:</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,express,angular,tailwind,bootstrap,firebase,figma,wordpress"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases:</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps:</b></td>
-    <td>
-      <img height="40" src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,netlify,cloudflare"/>
-    </td>
-  </tr>
-</table>
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,sql,html,css,bash" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,postman,figma,wordpress" />
 
 ---
 
