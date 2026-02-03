@@ -97,15 +97,6 @@ I focus on writing **clean, maintainable code**, building **scalable systems**, 
 <!-- Tip: if this graph sometimes errors, try removing `area=true` or setting a shorter cache -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=subhanbnto&theme=tokyo-night&area=true&hide_border=true&cache_seconds=86400)
 
-<div align="center">
-
-<img height="160em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=subhanbnto&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="160em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subhanbnto&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
