@@ -231,23 +231,35 @@ MindFlow is a productivity app concept for task management and focus tracking, d
 
 ---
 
-## 🛠️ Languages and Tools
 
+## 🛠️ Languages and Tools  
+<table>
+    <tr>
+        <td><b>Languages:</b></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp,swift,ts,matlab"/>
+        </td>
+    </tr>
+    <tr>
+        <td><b>Frameworks & Tools:</b></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,react,angular,tailwind,bootstrap,figma,firebase"/>
+        </td>
+    </tr>
+    <tr>
+        <td><b>Databases:</b></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql"/>
+        </td>
+    </tr>
+    <tr>
+        <td><b>Cloud & DevOps:</b></td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=aws,git,github"/>
+        </td>
+    </tr>
+</table>
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,sql,html,css,bash" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,postman,figma,wordpress" />
 
 ---
 
