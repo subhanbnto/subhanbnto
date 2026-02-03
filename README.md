@@ -98,9 +98,11 @@ With hands-on skills in **Python, Java, C++, web technologies, and system design
 
 <div align="center">
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanbnto&layout=compact&theme=tokyonight&count_private=true&cache_seconds=86400" />
+<img height="150em"
+src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400&hide_border=true" />
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=subhanbnto&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img height="150em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhanbnto&layout=compact&theme=tokyonight&cache_seconds=86400&hide_border=true" />
 
 </div>
 
